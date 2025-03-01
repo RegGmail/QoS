@@ -1,0 +1,12 @@
+*.pyc
+*.log
+*.deb
+/bin/*.*
+/etc/*.*
+/var/*.*
+/lib/*.*
+/home/reg/Projetos/QoS/lib/*.*
+/home/reg/Projetos/QoS/bin/*.*
+
+
+
