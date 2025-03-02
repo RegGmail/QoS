@@ -6,7 +6,7 @@ class Calculo (object):
             raise TypeError ("Tipo Inválido: {} and {}".format (type(x), type(y)))
     
 if __name__ == '__main__':
-    calc = Calculo()
+    calc = Calculo()nosetes
     resultado = calc.somar (3, 5)
     print (resultado)
 
